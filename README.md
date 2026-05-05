@@ -7,8 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/TalismanMonke/LEET-CODE/tree/main/0035-search-insert-position/) | Easy |
+| [0056-merge-intervals](https://github.com/TalismanMonke/LEET-CODE/tree/main/0056-merge-intervals/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/TalismanMonke/LEET-CODE/tree/main/0035-search-insert-position/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/TalismanMonke/LEET-CODE/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
