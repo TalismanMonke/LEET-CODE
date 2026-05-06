@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/TalismanMonke/LEET-CODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/TalismanMonke/LEET-CODE/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/TalismanMonke/LEET-CODE/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TalismanMonke/LEET-CODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/TalismanMonke/LEET-CODE/tree/main/0881-boats-to-save-people/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/TalismanMonke/LEET-CODE/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/TalismanMonke/LEET-CODE/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/TalismanMonke/LEET-CODE/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TalismanMonke/LEET-CODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
