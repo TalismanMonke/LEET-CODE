@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/TalismanMonke/LEET-CODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TalismanMonke/LEET-CODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/TalismanMonke/LEET-CODE/tree/main/0125-valid-palindrome/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/TalismanMonke/LEET-CODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0881-boats-to-save-people](https://github.com/TalismanMonke/LEET-CODE/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -49,4 +50,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/TalismanMonke/LEET-CODE/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/TalismanMonke/LEET-CODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/TalismanMonke/LEET-CODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
