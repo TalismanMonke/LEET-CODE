@@ -55,4 +55,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/TalismanMonke/LEET-CODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TalismanMonke/LEET-CODE/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TalismanMonke/LEET-CODE/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TalismanMonke/LEET-CODE/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
