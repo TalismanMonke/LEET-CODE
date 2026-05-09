@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/TalismanMonke/LEET-CODE/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/TalismanMonke/LEET-CODE/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TalismanMonke/LEET-CODE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TalismanMonke/LEET-CODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/TalismanMonke/LEET-CODE/tree/main/0162-find-peak-element/) | Medium |
 | [0496-next-greater-element-i](https://github.com/TalismanMonke/LEET-CODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/TalismanMonke/LEET-CODE/tree/main/0704-binary-search/) | Easy |
@@ -80,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/TalismanMonke/LEET-CODE/tree/main/0496-next-greater-element-i/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TalismanMonke/LEET-CODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
