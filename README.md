@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/TalismanMonke/LEET-CODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/TalismanMonke/LEET-CODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0455-assign-cookies](https://github.com/TalismanMonke/LEET-CODE/tree/main/0455-assign-cookies/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/TalismanMonke/LEET-CODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/TalismanMonke/LEET-CODE/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/TalismanMonke/LEET-CODE/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TalismanMonke/LEET-CODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/TalismanMonke/LEET-CODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/TalismanMonke/LEET-CODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
