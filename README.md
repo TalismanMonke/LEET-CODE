@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/TalismanMonke/LEET-CODE/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TalismanMonke/LEET-CODE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TalismanMonke/LEET-CODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/TalismanMonke/LEET-CODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/TalismanMonke/LEET-CODE/tree/main/0141-linked-list-cycle/) | Easy |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TalismanMonke/LEET-CODE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/TalismanMonke/LEET-CODE/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TalismanMonke/LEET-CODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/TalismanMonke/LEET-CODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
