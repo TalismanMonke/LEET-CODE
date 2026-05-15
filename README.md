@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/TalismanMonke/LEET-CODE/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/TalismanMonke/LEET-CODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/TalismanMonke/LEET-CODE/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/TalismanMonke/LEET-CODE/tree/main/0056-merge-intervals/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/TalismanMonke/LEET-CODE/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/TalismanMonke/LEET-CODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/TalismanMonke/LEET-CODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/TalismanMonke/LEET-CODE/tree/main/0347-top-k-frequent-elements/) | Medium |
