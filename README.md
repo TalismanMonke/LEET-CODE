@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/TalismanMonke/LEET-CODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/TalismanMonke/LEET-CODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TalismanMonke/LEET-CODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/TalismanMonke/LEET-CODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +142,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/TalismanMonke/LEET-CODE/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/TalismanMonke/LEET-CODE/tree/main/0234-palindrome-linked-list/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/TalismanMonke/LEET-CODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
